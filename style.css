@@ -8,9 +8,7 @@ main{
 body{
     height: 100vh;
 }
-*{
-    /* color: #333333; */   
-}
+ 
 .big-img{
     height: 100vh;
 }
